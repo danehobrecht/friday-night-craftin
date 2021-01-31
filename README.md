@@ -1,5 +1,8 @@
 # FRIDAY NIGHT CRAFTIN'
 
+How to import a Minecraft world file (Java): </br>
+https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft-Java-Edition-to-another-computer-
+
 Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds: </br>
 https://www.newgrounds.com/portal/view/770371
 
@@ -8,9 +11,6 @@ https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
 
 Noteblock transposition by Ethan Ghere: </br>
 https://www.youtube.com/channel/UCRaJG8RJZtC18HsSzb81uvg
-
-How to import a Minecraft world file (Java): </br>
-https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft-Java-Edition-to-another-computer-
 
 Screenshots: </br>
 
