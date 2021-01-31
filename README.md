@@ -20,4 +20,3 @@ Screenshots: </br>
 ![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/2.png)
 ![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/3.png)
 ![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/4.png)
-![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/5.png)
