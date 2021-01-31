@@ -1,4 +1,4 @@
-# FFRIDAY NIGHT CRAFTIN'
+# FRIDAY NIGHT CRAFTIN'
 
 Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds:
 https://www.newgrounds.com/portal/view/770371
