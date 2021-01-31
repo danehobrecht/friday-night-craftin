@@ -1,5 +1,3 @@
-![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/1.png)
-
 # FRIDAY NIGHT CRAFTIN'
 
 Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds: </br>
@@ -13,3 +11,10 @@ https://www.youtube.com/channel/UCRaJG8RJZtC18HsSzb81uvg
 
 How to import a Minecraft world file (Java): </br>
 https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft-Java-Edition-to-another-computer-
+
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/1.png)
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/2.png)
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/3.png)
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/4.png)
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/5.png)
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/6.png)
