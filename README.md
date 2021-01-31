@@ -1,4 +1,4 @@
-</img> Screenshots/1.png </img>
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/1.png)
 
 # FRIDAY NIGHT CRAFTIN'
 
