@@ -1,10 +1,10 @@
 # Friday Night Craftin'
 
-Play the original "Friday Night Funkin'" on Newgrounds
+Play the original "Friday Night Funkin'" on Newgrounds:
 https://www.newgrounds.com/portal/view/770371
 
-Original track (Gettin' Freaky) by Kawai Sprite
-https://www.youtube.com/channel/UC_fpxqB2Rb3hHP6e6kiqVbA
+Original Friday Night Funkin' OST by Kawai Sprite:
+https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
 
-Noteblock transposition by Ethan Ghere
+Noteblock transposition by Ethan Ghere:
 https://www.youtube.com/channel/UCRaJG8RJZtC18HsSzb81uvg
