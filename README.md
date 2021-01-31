@@ -1,3 +1,5 @@
+</img> Screenshots/1.png </img>
+
 # FRIDAY NIGHT CRAFTIN'
 
 Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds: </br>
