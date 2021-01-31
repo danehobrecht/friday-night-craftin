@@ -1,9 +1,9 @@
-# Friday Night Craftin'
+# FFRIDAY NIGHT CRAFTIN'
 
-Play the original "Friday Night Funkin'" on Newgrounds:
+Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds:
 https://www.newgrounds.com/portal/view/770371
 
-Original Friday Night Funkin' OST by Kawai Sprite:
+OST by Kawai Sprite:
 https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
 
 Noteblock transposition by Ethan Ghere:
