@@ -1,6 +1,6 @@
 # FRIDAY NIGHT CRAFTIN'
 
- </i> Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds: </i>
+Play the original "FRIDAY NIGHT FUNKIN'" on Newgrounds: </br>
 https://www.newgrounds.com/portal/view/770371
 
 OST by Kawai Sprite:
