@@ -6,8 +6,6 @@ https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft
 Original YouTube Video:
 https://www.youtube.com/watch?v=OfsojVaqyAA
 
----
-
 Screenshots: </br>
 
 ![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/1.png)
