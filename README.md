@@ -6,14 +6,7 @@ https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft
 Original YouTube Video:
 https://www.youtube.com/watch?v=OfsojVaqyAA
 
-Noteblock transposition by Ethan Ghere: </br>
-https://www.youtube.com/channel/UCRaJG8RJZtC18HsSzb81uvg
-
-Play the original game on Newgrounds: </br>
-https://www.newgrounds.com/portal/view/770371
-
-Friday Night Funkin' OST by Kawai Sprite: </br>
-https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
+---
 
 Screenshots: </br>
 
