@@ -1,10 +1,10 @@
 # FRIDAY NIGHT CRAFTIN'
 
-How to import a Minecraft world file (Java): </br>
-https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft-Java-Edition-to-another-computer-
-
 Original YouTube Video:
 https://www.youtube.com/watch?v=OfsojVaqyAA
+
+How to import a Minecraft world file (Java): </br>
+https://help.minecraft.net/hc/en-us/articles/360034754812-Transferring-Minecraft-Java-Edition-to-another-computer-
 
 Screenshots: </br>
 
