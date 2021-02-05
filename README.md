@@ -1,6 +1,6 @@
 # FRIDAY NIGHT CRAFTIN'
 
-Original YouTube Video: </br>
+Trailer for the build on YouTube: </br>
 https://www.youtube.com/watch?v=OfsojVaqyAA
 
 ---
