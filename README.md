@@ -2,7 +2,7 @@
 
 Trailer on YouTube: https://www.youtube.com/watch?v=OfsojVaqyAA
 
-Original Reddit post: https://www.reddit.com/r/Minecraft/comments/ldixht/my_friend_made_friday_night_funkin_in_100_vanilla/
+Featured on Reddit: https://www.reddit.com/r/Minecraft/comments/ldixht/my_friend_made_friday_night_funkin_in_100_vanilla/
 
 ---
 
