@@ -1,7 +1,5 @@
 # FRIDAY NIGHT CRAFTIN'
 
-Note: to disable the noise from the beacon, navigate to "Options" > "Music and Sounds..." and lower the "Blocks" category to "OFF".
-
 Trailer on YouTube: https://www.youtube.com/watch?v=OfsojVaqyAA
 
 Featured on Reddit: https://www.reddit.com/r/Minecraft/comments/ldixht/my_friend_made_friday_night_funkin_in_100_vanilla/
