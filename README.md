@@ -1,4 +1,4 @@
-# FRIDAY NIGHT CRAFTIN'
+# Friday Night Craftin'
 
 Featured on: \
 YouTube: https://www.youtube.com/watch?v=OfsojVaqyAA \
