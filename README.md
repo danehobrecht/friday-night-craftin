@@ -3,4 +3,4 @@
 How to import a world file (Java):\
 https://help.minecraft.net/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition
 
-![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/Screenshot-1.png)
+![alt text](https://github.com/danehobrecht/fridaynightcraftin/blob/main/Screenshots/screenshot-1.png)
