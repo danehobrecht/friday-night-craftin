@@ -3,7 +3,7 @@
 ### Who?
 tmuq.
 ### What?
-Friday Night Craftin' is a vanilla redstone interpretation of Friday Night Funkin', a Newgrounds-based rhythm game. It was made with the idea in mind to mimic as many of the components from the original game as possible using purely vanilla Minecraft redstone mechanics.
+Friday Night Craftin' is a vanilla redstone interpretation of Friday Night Funkin', a Newgrounds originating rhythm game. It was made with the idea in mind to mimic as many of the components from the original game as possible using purely vanilla Minecraft mechanics.
 ### When?
 Anytime.
 ### Where?
