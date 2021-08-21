@@ -11,4 +11,4 @@ Anywhere.
 ### Why?
 Couldn't tell you.
 ### How?
-[You'll need a working edition of Minecraft Java Edition 1.16.5.](https://help.minecraft.net/hc/en-us/articles/360034754852-Change-Game-Version-for-Minecraft-Java-Edition) In order to play, download the latest version of the world zip from the "World Files" folder and [sideload it into the game.](https://help.minecraft.net/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition)
+[You'll need a working edition of Minecraft Java Edition 1.16.5](https://help.minecraft.net/hc/en-us/articles/360034754852-Change-Game-Version-for-Minecraft-Java-Edition). In order to play, download the latest version of the world zip from the "World Files" folder and [sideload it into the game.](https://help.minecraft.net/hc/en-us/articles/360053272471-Sideloading-Worlds-into-Minecraft-Java-Edition)
